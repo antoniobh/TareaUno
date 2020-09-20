@@ -1,6 +1,6 @@
 ﻿Public Class Form1
     Private x = 0
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles btn_sendEmail.Click
+    Private Sub Button1_Click(sender As Object, e As EventArgs) 
         If isMail() Then
             Emailfield.Enabled = False
             btn_sendEmail.Enabled = False
