@@ -1,0 +1,14 @@
+D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender-Tarea1.vbprojAssemblyReference.cache
+D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender_Tarea1.Form1.resources
+D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender-Tarea1.vbproj.GenerateResource.cache
+D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\bin\Debug\MailSender-Tarea1.exe.config
+D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\bin\Debug\MailSender-Tarea1.exe
+D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\bin\Debug\MailSender-Tarea1.pdb
+D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\bin\Debug\MailSender-Tarea1.xml
+D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender_Tarea1.Resources.resources
+D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender-Tarea1.vbproj.CoreCompileInputs.cache
+D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender-Tarea1.exe
+D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender-Tarea1.xml
+D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender-Tarea1.pdb
+D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\bin\Debug\MZControls.dll
+D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender-Tarea1.vbproj.CopyComplete
