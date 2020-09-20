@@ -10,5 +10,4 @@ D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\
 D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender-Tarea1.exe
 D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender-Tarea1.xml
 D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender-Tarea1.pdb
-D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\bin\Debug\MZControls.dll
-D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender-Tarea1.vbproj.CopyComplete
+D:\Universidad\Progra IV\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender_Tarea1.loadingPage.resources
