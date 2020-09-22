@@ -1,0 +1,11 @@
+C:\Users\Dayi\Documents\Progra 4\GIT\TareaUno\MailSender-Tarea1\MailSender-Tarea1\bin\Debug\MailSender-Tarea1.exe.config
+C:\Users\Dayi\Documents\Progra 4\GIT\TareaUno\MailSender-Tarea1\MailSender-Tarea1\bin\Debug\MailSender-Tarea1.exe
+C:\Users\Dayi\Documents\Progra 4\GIT\TareaUno\MailSender-Tarea1\MailSender-Tarea1\bin\Debug\MailSender-Tarea1.pdb
+C:\Users\Dayi\Documents\Progra 4\GIT\TareaUno\MailSender-Tarea1\MailSender-Tarea1\bin\Debug\MailSender-Tarea1.xml
+C:\Users\Dayi\Documents\Progra 4\GIT\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender-Tarea1.vbprojAssemblyReference.cache
+C:\Users\Dayi\Documents\Progra 4\GIT\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender_Tarea1.Resources.resources
+C:\Users\Dayi\Documents\Progra 4\GIT\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender-Tarea1.vbproj.GenerateResource.cache
+C:\Users\Dayi\Documents\Progra 4\GIT\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender-Tarea1.vbproj.CoreCompileInputs.cache
+C:\Users\Dayi\Documents\Progra 4\GIT\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender-Tarea1.exe
+C:\Users\Dayi\Documents\Progra 4\GIT\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender-Tarea1.xml
+C:\Users\Dayi\Documents\Progra 4\GIT\TareaUno\MailSender-Tarea1\MailSender-Tarea1\obj\Debug\MailSender-Tarea1.pdb
