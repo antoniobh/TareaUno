@@ -76,6 +76,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MailManager.vb" />
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -137,6 +138,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="japan_mountain_landscape_nature_fuji_landmark_japanese_lake_icon_127292.ico" />
+    <Compile Include="template.html.vb" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

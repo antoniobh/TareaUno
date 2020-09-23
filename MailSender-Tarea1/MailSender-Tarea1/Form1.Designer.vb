@@ -38,10 +38,10 @@ Partial Class Form1
         Me.Label1 = New System.Windows.Forms.Label()
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.Panel2 = New System.Windows.Forms.Panel()
+        Me.labelDetectconection = New System.Windows.Forms.LinkLabel()
         Me.PictureOffline = New System.Windows.Forms.PictureBox()
         Me.onlinePicture = New System.Windows.Forms.PictureBox()
-        Me.Label5 = New System.Windows.Forms.Label()
-        Me.LinkLabel1 = New System.Windows.Forms.LinkLabel()
+        Me.labelNetworkStatus = New System.Windows.Forms.Label()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel1.SuspendLayout()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -115,27 +115,27 @@ Partial Class Form1
         Me.Label4.AutoSize = True
         Me.Label4.Location = New System.Drawing.Point(36, 261)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(122, 13)
+        Me.Label4.Size = New System.Drawing.Size(51, 13)
         Me.Label4.TabIndex = 24
-        Me.Label4.Text = "Enviados correctamente"
+        Me.Label4.Text = "Enviados"
         '
         'Label3
         '
         Me.Label3.AutoSize = True
         Me.Label3.Location = New System.Drawing.Point(36, 223)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(107, 13)
+        Me.Label3.Size = New System.Drawing.Size(67, 13)
         Me.Label3.TabIndex = 23
-        Me.Label3.Text = "Enviados con errores"
+        Me.Label3.Text = "No enviados"
         '
         'Label2
         '
         Me.Label2.AutoSize = True
         Me.Label2.Location = New System.Drawing.Point(36, 183)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(89, 13)
+        Me.Label2.Size = New System.Drawing.Size(102, 13)
         Me.Label2.TabIndex = 22
-        Me.Label2.Text = "Correos enviados"
+        Me.Label2.Text = "Solicitudes de envio"
         '
         'btn_sendEmail
         '
@@ -177,14 +177,25 @@ Partial Class Form1
         '
         'Panel2
         '
-        Me.Panel2.Controls.Add(Me.LinkLabel1)
+        Me.Panel2.Controls.Add(Me.labelDetectconection)
         Me.Panel2.Controls.Add(Me.PictureOffline)
         Me.Panel2.Controls.Add(Me.onlinePicture)
-        Me.Panel2.Controls.Add(Me.Label5)
+        Me.Panel2.Controls.Add(Me.labelNetworkStatus)
         Me.Panel2.Location = New System.Drawing.Point(-1, 371)
         Me.Panel2.Name = "Panel2"
         Me.Panel2.Size = New System.Drawing.Size(435, 29)
         Me.Panel2.TabIndex = 28
+        '
+        'labelDetectconection
+        '
+        Me.labelDetectconection.AutoSize = True
+        Me.labelDetectconection.Location = New System.Drawing.Point(265, 7)
+        Me.labelDetectconection.Name = "labelDetectconection"
+        Me.labelDetectconection.Size = New System.Drawing.Size(88, 13)
+        Me.labelDetectconection.TabIndex = 3
+        Me.labelDetectconection.TabStop = True
+        Me.labelDetectconection.Text = "Volver a detectar"
+        Me.labelDetectconection.Visible = False
         '
         'PictureOffline
         '
@@ -206,25 +217,14 @@ Partial Class Form1
         Me.onlinePicture.TabStop = False
         Me.onlinePicture.Visible = False
         '
-        'Label5
+        'labelNetworkStatus
         '
-        Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(39, 7)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(90, 13)
-        Me.Label5.TabIndex = 0
-        Me.Label5.Text = "Detectando red..."
-        '
-        'LinkLabel1
-        '
-        Me.LinkLabel1.AutoSize = True
-        Me.LinkLabel1.Location = New System.Drawing.Point(265, 7)
-        Me.LinkLabel1.Name = "LinkLabel1"
-        Me.LinkLabel1.Size = New System.Drawing.Size(88, 13)
-        Me.LinkLabel1.TabIndex = 3
-        Me.LinkLabel1.TabStop = True
-        Me.LinkLabel1.Text = "Volver a detectar"
-        Me.LinkLabel1.Visible = False
+        Me.labelNetworkStatus.AutoSize = True
+        Me.labelNetworkStatus.Location = New System.Drawing.Point(39, 7)
+        Me.labelNetworkStatus.Name = "labelNetworkStatus"
+        Me.labelNetworkStatus.Size = New System.Drawing.Size(90, 13)
+        Me.labelNetworkStatus.TabIndex = 0
+        Me.labelNetworkStatus.Text = "Detectando red..."
         '
         'Form1
         '
@@ -269,7 +269,7 @@ Partial Class Form1
     Friend WithEvents PictureBox2 As PictureBox
     Friend WithEvents Panel2 As Panel
     Friend WithEvents onlinePicture As PictureBox
-    Friend WithEvents Label5 As Label
+    Friend WithEvents labelNetworkStatus As Label
     Friend WithEvents PictureOffline As PictureBox
-    Friend WithEvents LinkLabel1 As LinkLabel
+    Friend WithEvents labelDetectconection As LinkLabel
 End Class
